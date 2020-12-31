@@ -1,5 +1,5 @@
 # mathEX
-Extended Math for Roblox (MathEX), a library of short functions.
+Extended Math for Roblox (MathEX), a library of mathematical functions.
 
 *Made by thenitropl aka TommyRBLX (Tommy)*
 
