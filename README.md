@@ -30,9 +30,7 @@ mathEX library contains following functions (with explanation):
   
 - c - Returns light speed
 
-- G - Returns Gauss's constant 
-  
-- W - Returns Wallis Constant 
+- G - Gravitational constant
   
 - phi - Returns phi (Golden ratio) 
 
