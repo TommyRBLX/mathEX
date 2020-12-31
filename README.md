@@ -3,6 +3,8 @@ Extended Math for Roblox (MathEX), a library of short functions.
 
 *Made by thenitropl aka TommyRBLX (Tommy)*
 
+![Preview using boatbomber's graph module!](https://github.com/TommyRBLX/mathEX/blob/images/image.jpg?raw=true)
+
 ## Getting Started:
 ### How to install:
 
