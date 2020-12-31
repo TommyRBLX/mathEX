@@ -13,7 +13,13 @@ Not too complicated, *right?*
 
 
 ### How to use:
-Use it as any other library:
+Use it as any other library;
+Example:
+```lua
+local mathex = require([mathex module path])
+print(mathex.e()) -- >> output: 2.718281828459
+print(mathex.randVector3({-180,180})) -- >> output: -23, 178, 59
+```
 
 mathEX library contains following functions (with explanation):
 
@@ -41,9 +47,9 @@ mathEX library contains following functions (with explanation):
 
 **Vector3 math extension**
 
-- randomVector3([r: table,Vector2]) - Returns a Vector3 with random n in passed range
+- randVector3([r: table,Vector2]) - Returns a Vector3 with random n in passed range
 
-- randomVector2([r: table,Vector2) - Works like randomVector3 but made for Vector2 
+- randVector2([r: table,Vector2) - Works like randomVector3 but made for Vector2 
 
 **Lerp functions**
 - hermite - This method will interpolate while easing in and out at the limits.
