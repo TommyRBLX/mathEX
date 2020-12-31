@@ -41,7 +41,7 @@ mathEX library contains following functions (with explanation):
 **Basic math functions**
 - norm([n: number]) - Normalizes a value with a offset, if no offset is provided function will return 0 to 1 range
 
-- fac([n: number]) - Returns factorial of n 
+- fac([n: number]) - Returns factorial of n
                         
 - fib([n: number]) - returns fibonacci sequence from n ~~
 
