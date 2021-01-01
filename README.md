@@ -4,6 +4,7 @@ Extended Math for Roblox (MathEX), a library of mathematical functions.
 *Made by thenitropl aka TommyRBLX (Tommy)*
 
 ![Preview using boatbomber's graph module!](https://raw.githubusercontent.com/TommyRBLX/mathEX/main/images/graph.png)
+
 (Graph made with boatbomber's [Graph module](https://github.com/boatbomber/GraphModule "*click*"))
 
 
